@@ -1,0 +1,58 @@
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Patient Monitoring System\PMS\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Patient Monitoring System\PMS\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Patient Monitoring System\PMS\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Patient Monitoring System\PMS\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Patient Monitoring System\PMS\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Patient Monitoring System\PMS\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Patient Monitoring System\PMS\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Patient Monitoring System\PMS\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Patient Monitoring System\PMS\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Patient Monitoring System\PMS\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Traffic Violation Prevention System\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Traffic Violation Prevention System\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Traffic Violation Prevention System\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Traffic Violation Prevention System\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Traffic Violation Prevention System\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Traffic Violation Prevention System\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Traffic Violation Prevention System\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Traffic Violation Prevention System\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Traffic Violation Prevention System\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Traffic Violation Prevention System\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+H:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+H:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+H:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+H:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+H:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+H:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+H:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+H:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+H:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+H:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+J:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+J:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+J:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+J:\E Drive\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+J:\Projects\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+J:\Projects\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+J:\Projects\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+J:\Projects\VB Projects\VB.NET PROJECTS\Ambience\Automated Robot Control\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+J:\Projects\VB Projects\VB.NET PROJECTS\Ambience\2017\War Field Robot\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+J:\Projects\VB Projects\VB.NET PROJECTS\Ambience\2017\War Field Robot\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+J:\Projects\VB Projects\VB.NET PROJECTS\Ambience\2017\War Field Robot\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+J:\Projects\VB Projects\VB.NET PROJECTS\Ambience\2017\War Field Robot\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+J:\Projects\VB Projects\VB.NET PROJECTS\Ambience\2017\War Field Robot\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+J:\Projects\VB Projects\VB.NET PROJECTS\Ambience\2017\War Field Robot\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+J:\Projects\VB Projects\VB.NET PROJECTS\Ambience\2017\War Field Robot\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+J:\Projects\VB Projects\VB.NET PROJECTS\Ambience\2017\War Field Robot\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+J:\Projects\VB Projects\VB.NET PROJECTS\Ambience\2017\War Field Robot\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+J:\Projects\VB Projects\VB.NET PROJECTS\Ambience\2017\War Field Robot\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
