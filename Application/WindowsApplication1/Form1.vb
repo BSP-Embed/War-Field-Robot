@@ -28,7 +28,7 @@ Public Class Form3
         swriter.WriteLine("**********************************")
 
         swriter.WriteLine("********************************************")
-        swriter.WriteLine("Date         Time     Fire       Metal")
+        swriter.WriteLine("Date         Time     Object       Metal")
         swriter.WriteLine("********************************************")
         swriter.Close()
         AddHandler comPort.DataReceived, AddressOf comPort_DataReceived
@@ -49,7 +49,7 @@ Public Class Form3
                 comPort.Read(comBuffer, 0, bytes)
                 If comBuffer(0) = 1 Then
                     TextBox1.Text = "Detected"
-                    MsgBox("Fire Detected")
+                    MsgBox("Object Detected")
                     display()
                 End If
                 If comBuffer(0) = 2 Then
